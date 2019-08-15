@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f89927</color>
+    <color name="colorPrimaryDark">#f89927 </color>
+    <color name="colorAccent">#f89927 </color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="screenbackground">#f1f1f2</color>
+    <color name="sepretorcolor">#d5d5d5</color>
+    <color name="hintcolor">#9b9b9b</color>
+    <color name="edtbackgroundcolor">#757575</color>
+    <color name="trans">#00000000</color>
+</resources>
